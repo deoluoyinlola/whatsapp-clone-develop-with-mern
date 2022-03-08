@@ -1,5 +1,18 @@
 {
   "dependencies": {
     "init": "^0.1.2"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "whatsapp",
+  "version": "1.0.0",
+  "description": "A web  whatsapp clone, fully functional",
+  "main": "server.js",
+  "devDependencies": {},
+  "keywords": [
+    "deolu"
+  ],
+  "author": "deolu",
+  "license": "ISC"
 }
